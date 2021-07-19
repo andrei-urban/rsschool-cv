@@ -15,3 +15,17 @@ The goal is to become a web developer.*
 * Punctuality
 * Self-criticism
 * Responsiveness
+
+# My skills:
+* HTML
+* CSS
+* JC
+* Git
+# Also familiar with:
+* C#
+* Python(Django)
+# Training:
+*BelHard Academy python programming
+metanit.com*
+# English level 
+**A1**
