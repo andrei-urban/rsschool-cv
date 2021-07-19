@@ -1,5 +1,5 @@
 # Andrei Urban
-# Cntacts
+# Contacts
 **Email** andrei.urban.1995@gmail
 **Vk.com** https://vk.com/andrei_urb
 **Telegram** @Andrei_Urban
@@ -8,10 +8,10 @@
 *He graduated from PSU with a degree in ITS. 22 years old.
 The goal is to become a web developer.*
 # Strengths:
-    * Perseverance
-    * Curiosity
-    * Independence
-    * Stress Resistance
-    * Punctuality
-    * Self-criticism
-    * Responsiveness
+* Perseverance
+* Curiosity
+* Independence
+* Stress Resistance
+* Punctuality
+* Self-criticism
+* Responsiveness
