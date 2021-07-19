@@ -1,11 +1,12 @@
 # Andrei Urban
 # Contacts
-**Email** andrei.urban.1995@gmail
-**Vk.com** https://vk.com/andrei_urb
-**Telegram** @Andrei_Urban
+* Email** andrei.urban.1995@gmail
+* Vk.com** https://vk.com/andrei_urb
+* Telegram** @Andrei_Urban
 
 # About me:
 *He graduated from PSU with a degree in ITS. 22 years old.
+
 The goal is to become a web developer.*
 # Strengths:
 * Perseverance
@@ -25,7 +26,6 @@ The goal is to become a web developer.*
 * C#
 * Python(Django)
 # Training:
-*BelHard Academy python programming
-metanit.com*
+*BelHard Academy python programming*
 # English level 
 **A1**
